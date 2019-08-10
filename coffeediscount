@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+int N,P,sum=0;
+scanf("%d %d",&N,&P);
+while(N>0)
+{
+sum=sum+((N-p/100)*N);
+}
+printf("%d",sum);
+}
